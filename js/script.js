@@ -1,5 +1,5 @@
 /**
- * File: index.js
+ * File: script.js
  * 
  * Description:
  * This file contains JavaScript code for managing a users contacts.
